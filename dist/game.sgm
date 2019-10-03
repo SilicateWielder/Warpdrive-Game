@@ -1,0 +1,6 @@
+name=Michael Warner
+author=Successor to Candle, an improved 3d graphics library based on the lessons learned from Candle
+description=2
+screen_width=1920
+screen_height=720
+script=main.js
